@@ -6,4 +6,6 @@ This is a 3D visualisation of the Enneper Minimal Surface written in C++
 
 
 ## How to compile it :
-``g++ minimal-surface-enneper.cpp -o enneper -lGL -lGLU -lglut -lm``
+```bash
+g++ minimal-surface-enneper.cpp -o enneper -lGL -lGLU -lglut -lm
+```
